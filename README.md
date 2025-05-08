@@ -1,5 +1,3 @@
-# **Aadil Chauhan**
-
 ![Banner](https://github.com/aadilchavhan/aadilchavhan/blob/main/Banner.png)  
 
 ## 👨‍💻 Biography  
