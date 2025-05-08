@@ -20,7 +20,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/_aadil_chauhan)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-aadil)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/_aadil_chauhan)  
-[![Facebook](https://img.shields.io/badge/Facebook-Like-blue)]( )
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://m.facebook.com/chavhan.aadil)
   
 
 <!--
