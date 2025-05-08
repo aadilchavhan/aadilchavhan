@@ -1,6 +1,6 @@
 # **Aadil Chauhan / README.md**  
 
-![Banner]()  
+![Banner](https://github.com/aadilchavhan/aadilchavhan/blob/main/Banner.png)  
 
 ## 👨‍💻 Biography  
 
