@@ -23,7 +23,31 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-aadil)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/_aadil_chauhan)  
 
+## Connect with Me  
 
+<a href="https://x.com/_aadil_chauhan" target="_blank">
+    <button style="background-color:#1DA1F2; color:white; border:none; padding:10px 20px; border-radius:5px;">
+        Follow @YourHandle
+    </button>
+</a>  
+
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <button style="background-color:#0077B5; color:white; border:none; padding:10px 20px; border-radius:5px;">
+        LinkedIn
+    </button>
+</a>  
+
+<a href="https://facebook.com/your-page" target="_blank">
+    <button style="background-color:#3b5998; color:white; border:none; padding:10px 20px; border-radius:5px;">
+        Facebook
+    </button>
+</a>  
+
+<a href="https://instagram.com/your-handle" target="_blank">
+    <button style="background-color:#E4405F; color:white; border:none; padding:10px 20px; border-radius:5px;">
+        Instagram
+    </button>
+</a>
 <!--
 
 ## 📊 GitHub Statistics  
