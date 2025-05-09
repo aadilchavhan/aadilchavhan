@@ -20,8 +20,7 @@ A passionate **AI and Data Science** enthusiast from India, skilled in **Python,
 
 ---
 
- 🌎 Profile Visitors
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=aadilchavhan.aadilchavhan)  
+🌎 Profile Visitors ![Profile views](https://visitors-badge.laobi.icu/badge?page_id=aadilchavhan.aadilchavhan)  
 
 ---
 
