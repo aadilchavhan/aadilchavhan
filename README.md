@@ -1,6 +1,6 @@
 ![Banner](https://github.com/aadilchavhan/aadilchavhan/blob/main/Banner.png)  
 
- ## Hi 🖐 there, I'm **Aadil Chauhan**
+ ## Hi there 👋 , I am **Aadil Chauhan**
  
 An aspiring **AI & Data Science Professional**, is currently pursuing the **AI Micro Degree by Microsoft**. With a strong foundation in **Python, Machine Learning, NLP, and Computer Vision**, he is passionate about leveraging AI for **real-world and ethical innovation**. He actively contributes to AI discussions through **open-source projects, blogs, and industry collaborations**.  
 
