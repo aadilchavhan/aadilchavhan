@@ -31,6 +31,7 @@ To **apply AI & ML skills** to create **efficient, scalable, and impactful AI-dr
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-aadil) 
+
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/_aadil_chauhan)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/_aadil_chauhan)  
 [![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://m.facebook.com/chavhan.aadil)  
