@@ -1,4 +1,6 @@
 ![Banner](https://github.com/aadilchavhan/aadilchavhan/blob/main/Banner.png)  
+
+ ## Hi 🖐 there, I'm **Aadil Chauhan**
  
 An aspiring **AI & Data Science Professional**, is currently pursuing the **AI Micro Degree by Microsoft**. With a strong foundation in **Python, Machine Learning, NLP, and Computer Vision**, he is passionate about leveraging AI for **real-world and ethical innovation**. He actively contributes to AI discussions through **open-source projects, blogs, and industry collaborations**.  
 
@@ -20,8 +22,8 @@ An aspiring **AI & Data Science Professional**, is currently pursuing the **AI M
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/_aadil_chauhan)  
 [![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://m.facebook.com/chavhan.aadil)  
 
-## 📊 GitHub Statistics  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedaadil&show_icons=true&theme=radical)  
+## GitHub Statistics
+![Aadil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadilchavhan&show_icons=true&count_private=true&theme=dark)
 
-## 🌍 Website Visitors  
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=aadilchavhan.aadilchavhan)
+## Web Visitors
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aadilchavhan.aadilchavhan)
