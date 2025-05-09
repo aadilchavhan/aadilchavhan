@@ -1,7 +1,8 @@
 # 👋 Hey there! 🖐✨  
 I’m **Aadil Chauhan**, an AI & Data Science enthusiast. Welcome to my profile! 🚀  
 
-![Banner](https://github.com/aadilchavhan/aadilchavhan/blob/main/Banner.png)  
+![Img](https://github.com/aadilchavhan/aadilchavhan/blob/main/img.png)  
+
 
 ## 🚀 About Me  
 A passionate **AI and Data Science** enthusiast from India, skilled in **Python, MySQL, Excel, Power BI, Machine Learning, and Data Science**. I enjoy working on **data-driven applications**, predictive modeling, and solving **real-world challenges with AI**.  
