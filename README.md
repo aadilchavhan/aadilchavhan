@@ -1,29 +1,30 @@
-![Banner](https://github.com/aadilchavhan/aadilchavhan/blob/main/Banner.png)  
+# 👋 Hey there! 🖐✨  
+I’m **Aadil Chauhan**, an AI & Data Science enthusiast. Welcome to my profile! 🚀  
 
- ## Hi there 👋 , I am **Aadil Chauhan**
- 
-An aspiring **AI & Data Science Professional**, is currently pursuing the **AI Micro Degree by Microsoft**. With a strong foundation in **Python, Machine Learning, NLP, and Computer Vision**, he is passionate about leveraging AI for **real-world and ethical innovation**. He actively contributes to AI discussions through **open-source projects, blogs, and industry collaborations**.  
+## 🚀 About Me  
+A passionate **AI and Data Science** enthusiast from India, skilled in **Python, MySQL, Excel, Power BI, Machine Learning, and Data Science**. I enjoy working on **data-driven applications**, predictive modeling, and solving **real-world challenges with AI**.  
 
-## 💡 Expertise Areas  
-- 🚀 Artificial Intelligence & Generative AI  
-- 📊 Machine Learning & Deep Learning  
-- 📈 Data Analytics & Business Intelligence  
-- 🤖 AI Ethics & Responsible AI Implementation  
-- 🔬 Computer Vision & Natural Language Processing  
+## 🔍 Key Areas of Expertise  
+- Machine Learning & Deep Learning  
+- Python, MySQL & Power BI for data analysis  
+- AI-powered automation & predictive modeling  
+- Data-driven decision-making & Business Intelligence  
 
-## 📌 Featured Work  
-- **AI-Powered Resume Analyzer** – A machine-learning model that analyzes and optimizes resumes for ATS compatibility.  
-- **Chatbot for Career Guidance** – NLP-based virtual assistant offering AI-driven career recommendations.  
-- **Data Visualization Dashboard** – Designed a Power BI dashboard for advanced data-driven insights.  
+## 📌 Current Project  
+🛡 **Phishing URL Classification using Machine Learning** – Leveraging AI models to detect and prevent cyber threats.  
 
-## 🔗 Connect with Me  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/_aadil_chauhan)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-aadil)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/_aadil_chauhan)  
-[![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://m.facebook.com/chavhan.aadil)  
+## 🎯 Goal  
+To **apply AI & ML skills** to create **efficient, scalable, and impactful AI-driven solutions** for real-world applications.  
 
-## GitHub Statistics
-![Aadil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadilchavhan&show_icons=true&count_private=true&theme=dark)
+---
 
-## Web Visitors
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aadilchavhan.aadilchavhan)
+## 📊 GitHub Statistics  
+![Aadil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadilchavhan&show_icons=true&count_private=true&theme=dark)  
+
+## 🌎 Web Visitors  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aadilchavhan.aadilchavhan)  
+
+---
+
+## 🤖 Let's Connect  
+📩 Feel free to collaborate and explore exciting AI & ML projects! 🚀
