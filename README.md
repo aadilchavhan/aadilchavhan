@@ -11,17 +11,17 @@ A passionate **AI and Data Science** enthusiast from India, skilled in **Python,
 
 - 📌 **Current Project**: 🩺 **Breast Cancer Classification Using Data Science**
    
-- 🎯 **Goal**: To **apply AI & ML skills** to create **efficient, scalable, and impactful AI-driven solutions** for real-world applications.  
-
----
-
-<!-- 🌎 Profile Visitors  -->
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=aadilchavhan.aadilchavhan)  
+- 🎯 **Goal**: To **apply AI & ML skills** to create **efficient, scalable, and impactful AI-driven solutions** for real-world applications. 
 
 ---
 
 ## 📊 GitHub Statistics  
 ![Aadil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadilchavhan&show_icons=true&count_private=true&theme=dark)  
+
+---
+
+ 🌎 Profile Visitors
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=aadilchavhan.aadilchavhan)  
 
 ---
 
