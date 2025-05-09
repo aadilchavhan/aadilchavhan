@@ -1,8 +1,6 @@
 ![Banner](https://github.com/aadilchavhan/aadilchavhan/blob/main/Banner.png)  
-
-## 👨‍💻 Biography  
-
-**Aadil Chauhan**, is an aspiring **AI & Data Science Professional** currently pursuing the **AI Micro Degree by Microsoft**. With a strong foundation in **Python, Machine Learning, NLP, and Computer Vision**, he is passionate about leveraging AI for **real-world problem-solving and ethical innovation**. He actively contributes to AI discussions through **open-source projects, blogs, and industry collaborations**.  
+ 
+An aspiring **AI & Data Science Professional**, is currently pursuing the **AI Micro Degree by Microsoft**. With a strong foundation in **Python, Machine Learning, NLP, and Computer Vision**, he is passionate about leveraging AI for **real-world and ethical innovation**. He actively contributes to AI discussions through **open-source projects, blogs, and industry collaborations**.  
 
 ## 💡 Expertise Areas  
 - 🚀 Artificial Intelligence & Generative AI  
@@ -20,12 +18,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/_aadil_chauhan)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-aadil)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/_aadil_chauhan)  
-[![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://m.facebook.com/chavhan.aadil)
-  
-
-<!--
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://m.facebook.com/chavhan.aadil)  
 
 ## 📊 GitHub Statistics  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedaadil&show_icons=true&theme=radical)  
 
- -->
+## 🌍 Website Visitors  
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=aadilchavhan.aadilchavhan)
