@@ -15,20 +15,22 @@ A passionate **AI and Data Science** enthusiast from India, skilled in **Python,
 
 ---
 
-## 📊 GitHub Statistics  
-![Aadil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadilchavhan&show_icons=true&count_private=true&theme=dark)  
-
-## 🌎 Profile Visitors  
+<!-- 🌎 Profile Visitors  -->
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=aadilchavhan.aadilchavhan)  
 
 ---
 
-- 🔗 Connect with Me  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-aadil) 
+## 📊 GitHub Statistics  
+![Aadil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadilchavhan&show_icons=true&count_private=true&theme=dark)  
 
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/_aadil_chauhan)  
-- [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/_aadil_chauhan)  
-- [![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://m.facebook.com/chavhan.aadil)  
+---
+
+## 🔗 Connect with Me  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-aadil) 
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/_aadil_chauhan)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/_aadil_chauhan)  
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://m.facebook.com/chavhan.aadil)  
 
 ---
 
