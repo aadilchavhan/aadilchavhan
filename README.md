@@ -25,11 +25,11 @@ A passionate **AI and Data Science** enthusiast from India, skilled in **Python,
 ---
 
 ## 🔗 Connect with Me  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-aadil) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aadilchavhan) 
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/_aadil_chauhan)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/_aadil_chauhan)  
-[![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://m.facebook.com/chavhan.aadil)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/aadilchavhan)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/aadil_chavhan)  
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://m.facebook.com/aadilchavhan)  
 
 ---
 
