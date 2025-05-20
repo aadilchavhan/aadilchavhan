@@ -39,7 +39,7 @@ A passionate **AI and Data Science** enthusiast from India, skilled in **Python,
 
 -->
 
-# 💫 About Me:
+# 👋 Hey there! I’m **Aadil Chauhan**
 A passionate AI and Data Science enthusiast from India, skilled in Python, MySQL, Excel, Power BI, Machine Learning, and Data Science. I enjoy working on data-driven applications, predictive modeling, and solving real-world challenges with AI.
 
 
@@ -52,6 +52,7 @@ A passionate AI and Data Science enthusiast from India, skilled in Python, MySQL
 ![](https://github-readme-stats.vercel.app/api?username=aadilchavhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aadilchavhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilchavhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🌎 Profile Visitors ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=aadilchavhan.aadilchavhan)  
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aadilchavhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -59,4 +60,5 @@ A passionate AI and Data Science enthusiast from India, skilled in Python, MySQL
 ---
 [![](https://visitcount.itsvg.in/api?id=aadilchavhan&icon=0&color=6)](https://visitcount.itsvg.in)
 
-
+## 🤖 Let's Connect  
+📩 Feel free to collaborate and explore exciting AI & ML projects! 🚀  
